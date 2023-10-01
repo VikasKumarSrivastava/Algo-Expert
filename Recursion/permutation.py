@@ -16,7 +16,7 @@ def getPermutations(array):
     getPermutationsHelper(array,curr_perm,permArray)
     return permArray
 
-TC: O(N!*N*N)
+TC: O(N!*N)
 SC : O(N!*N)
 
 #solution 2
