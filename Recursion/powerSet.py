@@ -1,4 +1,8 @@
 # problem statement :https://www.algoexpert.io/questions/powerset
+
+#TC: O(N*2^N)
+#SC: O(N*2^N)
+# where N is the length of the input array
 def powersetHelper(array,idx,curr_powerset,ans):
     if idx == len(array):
         ans.append(curr_powerset)
