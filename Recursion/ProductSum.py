@@ -1,4 +1,4 @@
-//problem Statement: https://www.algoexpert.io/questions/product-sum
+#problem Statement: https://www.algoexpert.io/questions/product-sum
 def productSumHelper(array,multiplier):
     productSum = 0
     for i in array:
