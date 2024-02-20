@@ -6,7 +6,6 @@ import java.util.*;
 class Program {
   static class LRUCache {
     int maxSize;
-
     class Node{
       Node next,prev;
       String key;
