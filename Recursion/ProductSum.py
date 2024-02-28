@@ -11,6 +11,7 @@ def productSum(array):
     # Write your code here.
     return productSumHelper(array,1)
 
+
 # TC = O(N)
 # where N is the total no. of elements including the sub-elements
 # SC = O(depth)
