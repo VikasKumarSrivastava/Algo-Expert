@@ -3,7 +3,7 @@
 # Sliding window concept is used.
 # Can be done by recursion,memoization and dynamic programming but they will have greater Time and Space Complexity than Sliding window concept.
 # Problem Statement
-# https://www.algoexpert.io/questions/staircase-traversal
+ https://www.algoexpert.io/questions/staircase-traversal
 def staircaseTraversal(height, maxSteps):
     currentNumberOfWays = 0
     waysToTop =[1]
