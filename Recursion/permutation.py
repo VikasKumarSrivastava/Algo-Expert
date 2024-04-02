@@ -1,6 +1,5 @@
 problem statement: https://www.algoexpert.io/questions/permutations
 
-
 #solution 1
 def getPermutationsHelper(array,curr_perm,permArray):
     if not len(array) and len(curr_perm):
