@@ -1,5 +1,4 @@
 import java.util.*;
-
 // Do not edit the class below except for the insertKeyValuePair,
 // getValueFromKey, and getMostRecentKey methods. Feel free
 // to add new properties and methods to the class.
