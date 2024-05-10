@@ -1,3 +1,4 @@
+
 #Solution 1
 def getString(n):
     if n == 0:
